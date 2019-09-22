@@ -1,13 +1,4 @@
-Android Recipe App | creatorb
-===========================================
-
-|Simple Recipe App Implementation of SQLite Database | Cara Membuat Aplikasi Resep Masakan Android SQLite Database - creatorb |<br>
-<h2>How to Create Recipes Book Android App</h2>
-You can get full resources of this app on my freesite for freesource ;)
-<ul style="list-style-type:square">
-  <li>Get Full Resources Now Visit : http://creatorb-lab.blogspot.com/2014/12/cara-membuat-aplikasi-android-resep.html</li>
-</ul>
-Okkay have fun coding with me, creatorb. Keep coding and stay learning...<br>
-<b>"DON"T FORGET TO REMEMBER ME FOR KEEP UPDATES"</b><br>
-
-<a href="http://twitter.com/creatorbe">creatorb</a>
+Android GAMES using unity and Eclipse Juno, i was created this for my essay to complete my bachelor degree.
+Using C# language for designing game component based 2D simulator.
+Using Java as Database query and screen opening.
+i got many reference here from stackoverflow and inspired screen open from https://github.com/andrietri/ResepNyonya/blob/master/app/src/main/java/com/example/rn/activity/Splashbe.java
